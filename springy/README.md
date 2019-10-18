@@ -1,3 +1,23 @@
+http://scenejs.org/examples/index.html
+
+- Live editor
+- Quick rendering
+- Easy shaping
+	- http://scenejs.org/examples/index.html
+- Noise available
+- CSG
+	- http://evanw.github.com/csg.js/docs/
+- OpenSCAD
+- Context Free 2d / 3d
+- Turtle Graphics
+- Exportable (in difference files if required)
+	- glTF
+- Savable
+- Randomness with Repeatability
+- Documentation
+	- Like http://scenejs.org/examples/index.html
+
+
 *Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
